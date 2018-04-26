@@ -8,7 +8,7 @@ Inspired and special thanks to [iKcamp](https://github.com/ikcamp/koa2-tutorial.
 ### Features
 - 使用最新版Node^9.11.1，支持async/await语法；
 - 使用Koa^2.5.0框架，面向中间件开发；
-- 使用nunjucks模板，功能更加强大；
+- 使用nunjucks模板，功能更加强大, 不应过度使用模板，推荐使用VueJS前后端分离；
 - 使用TypeScript代替js，更适合工程开发；
 - 将模块分成不同app开发，适合项目协作；
 - [x] 每个app下面定义urls、models、views，项目启动自动发现注入，只需要声明使用的apps即可；

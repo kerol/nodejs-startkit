@@ -1,7 +1,7 @@
 {
-  "name": "tskoawp-startkit",
-  "version": "1.0.0",
-  "description": "typescript, koa2, webpack startkit",
+  "name": "nodejs-startkit",
+  "version": "1.0.1",
+  "description": "nodejs, typescript, koa2 ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
